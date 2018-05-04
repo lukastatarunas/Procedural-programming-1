@@ -20,7 +20,8 @@ int main()
 		vid = suma / k;
 		cout << vid;
 	}
-	else {
+	else
+	{
 		cout << "0";
 	}
 }
