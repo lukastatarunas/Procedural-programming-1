@@ -20,6 +20,5 @@ int main()
 	else
 	{
 		cout << "NE";
-
 	}
 }
