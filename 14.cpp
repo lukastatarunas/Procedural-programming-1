@@ -6,8 +6,8 @@ int main()
 {
 	int n, suma = 0, vid, k = 0, a = 1;
 	cin >> n;
-	if (n >= 2) {
-
+	if (n >= 2)
+	{
 		while (a <= n)
 		{
 			if (a % 2 == 0)
@@ -23,5 +23,5 @@ int main()
 	else
 	{
 		cout << "0";
-	}a
+	}
 }
