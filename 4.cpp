@@ -9,5 +9,5 @@ int main()
 	cin >> a >> b >> c;
 	double d;
 	d = (b + sqrt(b*b - a*c)) / (2 * a);
-	cout << fixed << setprecision(3) << d;a
+	cout << fixed << setprecision(3) << d;
 }
