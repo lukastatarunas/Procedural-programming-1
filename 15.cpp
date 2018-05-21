@@ -16,4 +16,4 @@ int main()
 		m = m * 2;
 	}
 	cout << rez;
-}
+}a
