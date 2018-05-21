@@ -9,5 +9,5 @@ int main()
 	double a;
 	cin >> x1 >> y1 >> x2 >> y2;
 	a = sqrt(pow(x1 - x2, 2) + pow(y1 - y2, 2));
-	cout << fixed << setprecision(2) << a;aa
+	cout << fixed << setprecision(2) << a;
 }
