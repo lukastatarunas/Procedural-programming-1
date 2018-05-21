@@ -22,5 +22,5 @@ int main()
 	{
 		cout << 0;
 	}
-	cout << a;
+	cout << a;a
 }
