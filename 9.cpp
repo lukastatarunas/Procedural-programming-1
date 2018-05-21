@@ -15,6 +15,6 @@ int main()
 	else
 	{
 		S = p * pow(b / 2, 2);
-		cout << fixed << setprecision(2) << S;a
+		cout << fixed << setprecision(2) << S;
 	}
 }
