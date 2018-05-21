@@ -25,5 +25,5 @@ int main()
 	{
 		Sum = "0";
 	}
-	cout << Sum;aa
+	cout << Sum;
 }
