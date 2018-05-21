@@ -12,5 +12,5 @@ int main()
 	s3 = sqrt(pow(x3 - x1, 2) + pow(y3 - y1, 2));
 	p = (s1 + s2 + s3) / 2;
 	S = sqrt(p * (p - s1) * (p - s2) * (p - s3));
-	cout << fixed << setprecision(1) << S;a
+	cout << fixed << setprecision(1) << S;
 }
