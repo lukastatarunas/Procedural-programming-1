@@ -20,6 +20,6 @@ int main()
 	}
 	else
 	{
-		cout << "NO";
+		cout << "NO";a
 	}
 }
