@@ -12,5 +12,5 @@ int main()
 		ats += b;
 		b = b * n;
 	}
-	cout << ats;
+	cout << ats;a
 }
