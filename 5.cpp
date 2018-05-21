@@ -9,5 +9,5 @@ int main()
 	cin >> a >> b;
 	double d;
 	d = 2 * sin(a) + (cos(b) - sqrt(tan(b))) * pow(log10(a), 5);
-	cout << fixed << setprecision(2) << d;a
+	cout << fixed << setprecision(2) << d;
 }
