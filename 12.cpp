@@ -7,7 +7,7 @@ int main()
 	int a, b, c;
 	int max = 0;
 	cin >> a >> b >> c;
-	if (a >= b )
+	if (a >= b)
 	{
 		if (a >= c)
 		{
