@@ -10,5 +10,5 @@ int main()
 	{
 		suma = suma + a;
 	}
-	cout << suma;
+	cout << suma;a
 }
